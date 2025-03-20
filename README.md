@@ -2,7 +2,7 @@
 
 I'm Javier, a frontend developer with 7 years of experience
 
-- 🧑🏻‍💻 I'm currently working at @solublestudio
+- 🧑🏻‍💻 I'm currently working at @TailorHub-Mad
 - ✨ Fun fact: I do beatbox
 - 🗣️ Ask me about NBA / Premier league
 
